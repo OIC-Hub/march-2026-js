@@ -1,0 +1,4 @@
+Kindly use all the JS output to come up with a page about yourself.
+Use JS to write to those elements.
+You are also expected to demonstrate using inline, internal and external method.
+Submission in the next class.
