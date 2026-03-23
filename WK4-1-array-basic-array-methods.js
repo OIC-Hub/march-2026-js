@@ -92,21 +92,3 @@ console.log(myArr6.includes("Eba"));
 const myArr8 = [2, 1, 6];
 const myArr9 = myArr8.concat([2, 5, 6], ["Ade", "Wale"]);
 console.log(myArr9);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
